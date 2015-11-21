@@ -1,0 +1,14 @@
+{
+    "Nama ": "Erik Iman Ujianto",
+    "Alamat": "Yogyakarta",
+    "Fakultas": {
+        "Prodi": "Manajemen Informatika",
+        "NIM": "Metodologi Penelitian",
+        "Kelas": "A dan B"
+    },
+    "TTL": {
+        "Tempat": "Jakarta",
+        "Tanggal": "11 Januari 1965"
+    },
+    "Status": null
+}
