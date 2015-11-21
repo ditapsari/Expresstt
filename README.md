@@ -1,0 +1,2 @@
+#Express dan Routing
+Routing adalah proses dimana suatu item dapat sampai ke tujuan dari satu lokasi ke lokasi lain. Beberapa contoh item yang dapat di-routing : mail, telepon call, dan data. Di dalam jaringan, Router adalah perangkat yang digunakan untuk melakukan routing trafik.
